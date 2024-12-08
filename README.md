@@ -8,5 +8,5 @@ My portfolio showcasing data analysis projects and dashboards
 Each project includes a description of the problem, the tools and techniques applied, and the outcomes achieved. Feel free to explore and reach out with any questions or feedback!
 
 **Contact Me**:  
-- LinkedIn: [Your LinkedIn Profile](linkedin.com/in/mouhamadou-lamine-sagna-sy-834a431b7)  
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mouhamadou-lamine-sagna-sy-834a431b7/)  
 - Email: slaminemouhamadou@gmail.com
