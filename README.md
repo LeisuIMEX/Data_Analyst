@@ -1,4 +1,4 @@
-# Data_Analyst
+# LeisuIMEX
 My portfolio showcasing data analysis projects and dashboards
 ## What You'll Find Here:
 - **Interactive Dashboards**: Designed to uncover actionable insights and support data-driven decisions.
